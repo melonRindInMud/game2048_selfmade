@@ -1,0 +1,32 @@
+﻿生成启动时间为 2020/10/12 14:19:43。
+     1>项目“D:\编程\大型任务与极端任务\2048第一版\2048第一版\2048第一版.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\2048第一版.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\2048第一版.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "2048第一版.cpp" "2048第一版Dlg.cpp" m_resource.cpp
+         m_resource.cpp
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(37): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(645): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(646): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(654): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(747): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(748): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+         2048第一版Dlg.cpp
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\2048第一版dlg.cpp(130): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+         2048第一版.cpp
+         正在生成代码...
+     1>d:\编程\大型任务与极端任务\2048第一版\2048第一版\m_resource.cpp(1480): warning C4715: “AI::max_move_or_not”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\2048第一版.res" "2048第一版.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\编程\大型任务与极端任务\2048第一版\Debug\2048第一版.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\编程\大型任务与极端任务\2048第一版\Debug\2048第一版.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\编程\大型任务与极端任务\2048第一版\Debug\2048第一版.lib" /MACHINE:X86 "Debug\2048第一版.res"
+         "Debug\2048第一版.obj"
+         "Debug\2048第一版Dlg.obj"
+         Debug\m_resource.obj
+         Debug\stdafx.obj
+         2048第一版.vcxproj -> D:\编程\大型任务与极端任务\2048第一版\Debug\2048第一版.exe
+     1>已完成生成项目“D:\编程\大型任务与极端任务\2048第一版\2048第一版\2048第一版.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.18
